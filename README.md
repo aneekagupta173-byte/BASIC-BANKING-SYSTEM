@@ -16,3 +16,4 @@ These projects may be simple, but each one represents a step in my journey as a 
 - Debugging & Logical Thinking
 
 Thank you for visiting my repository. Feel free to explore the projects and follow my coding journey!
+To learn more about each project, go to each folders read me files!
